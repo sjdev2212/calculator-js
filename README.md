@@ -16,6 +16,7 @@ A calculator created with vanilla JavaScript Html and Css
 - Javascript
 
 ## Live Demo
+https://sj1978.github.io/calculator-js/
 
 
 
